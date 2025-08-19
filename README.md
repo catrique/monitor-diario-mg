@@ -1,4 +1,3 @@
-```markdown
 # 📡 Monitor Diário MG
 
 Este projeto realiza o monitoramento automatizado do Diário Oficial de Minas Gerais, buscando por palavras-chave específicas e enviando alertas via WhatsApp utilizando a API gratuita do [CallMeBot](https://www.callmebot.com/).
@@ -87,5 +86,3 @@ Pull requests são bem-vindos! Se tiver sugestões ou melhorias, fique à vontad
 
 Criado por [Cáled Tarique](https://github.com/CaledTarique)  
 Dúvidas ou sugestões? Me chama no WhatsApp ou abre uma issue aqui no GitHub!
-
-```
